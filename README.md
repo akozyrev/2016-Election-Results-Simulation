@@ -6,7 +6,7 @@ The election results dataset and some implementation suggestions were provided b
 
 Screenshot of my solution:
 
-<img width="574" alt="screen shot 2018-06-07 at 10 18 27 am" src="https://user-images.githubusercontent.com/7096526/41105699-4627e5f8-6a3c-11e8-80a7-62a2dbc13526.png">
+<img width="590" alt="screen shot 2018-06-07 at 10 45 30 am" src="https://user-images.githubusercontent.com/7096526/41107243-f53a6392-6a3f-11e8-9431-edfbd332e187.png">
 
 Screenshot of 538's original:
 
